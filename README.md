@@ -16,6 +16,6 @@ Este proyecto contiene el código fuente necesario para automatizar funcionalida
 2- Visualizar el feature que se definen para texbox
 3- Dependencias en el Buid Gradle Utilizadas.
 
-# mediante consola se puede ejecutar el proyecto gradle test aggregate generando el reporte de las pruebas en la carpeta targe/site/serenity/html.index que contiene la evidencia paso a paso de la las pruebas.
+mediante consola se puede ejecutar el proyecto gradle test aggregate generando el reporte de las pruebas en la carpeta targe/site/serenity/html.index que contiene la evidencia paso a paso de la las pruebas.
 
 Example: ./gradlew clean test --tests bold.co.runners.RunnerTexBox.java* -i
